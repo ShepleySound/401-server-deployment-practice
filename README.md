@@ -4,8 +4,8 @@
 
 ### Author: Robert Shepley
 
-- [tests report](https://github.com/ShepleySound/data-structures-and-algorithms/actions/runs/3086691138)
-- [Assignment Pull Request](https://github.com/ShepleySound/data-structures-and-algorithms/pull/18)
+- [Tests Report](https://github.com/ShepleySound/401-server-deployment-practice/actions/runs/3086816853)
+- [Assignment Pull Request](https://github.com/ShepleySound/401-server-deployment-practice/pull/1)
 - [Heroku Prod Deployment](https://shepley-server-deploy-prod.herokuapp.com/)
 
 ### Running the app
